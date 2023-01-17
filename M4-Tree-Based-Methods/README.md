@@ -1,4 +1,4 @@
-# M3-Tree-Based-Methods
+# M4-Tree-Based-Methods
 
 Tree-based methods, used either for regression or classification, are very simple and easy to interpret. They are very popular and involve segmenting the predictor space into a number of simple regions.  In this module we introduce simple trees, explain their construction and highlight the importance of some parameters on their performances. Since a single tree may not be very accurate in terms of prediction, we introduce methods that enhance the performances by producing and combining a large number of trees.
 
